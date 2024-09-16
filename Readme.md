@@ -1,8 +1,15 @@
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/Akki-soni">
+  <img src="https://komarev.com/ghpvc/?username=akki-soni&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Check out the live demo [Click Here](https://quote-app-main.vercel.app/).
 ## Quote App
 
 A simple web-based application that displays random quotes to users. Built using HTML, CSS, and JavaScript.
-
-Check out the live demo [Click Here](https://quote-app-main.vercel.app/).
 
 ## Features
 
