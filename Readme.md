@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-Check out the live demo [Click Here](https://quote-app-main.vercel.app/).
+##Check out the live demo [Click Here](https://quote-app-main.vercel.app/).
 ## Quote App
 
 A simple web-based application that displays random quotes to users. Built using HTML, CSS, and JavaScript.
