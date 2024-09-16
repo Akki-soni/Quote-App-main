@@ -25,7 +25,7 @@ A simple web-based application that displays random quotes to users. Built using
 No external dependencies are required. Simply clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Akki-soni/Quote-App-main.git
 cd quote-app
 open index.html
 ```
