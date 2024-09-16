@@ -11,7 +11,7 @@
 
 A simple web-based application that displays random quotes to users. Built using HTML, CSS, and JavaScript.
 
-##Check out the live demo [Click Here](https://quote-app-main.vercel.app/).
+Check out the live demo [Click Here](https://quote-app-main.vercel.app/).
 
 ## Features
 
