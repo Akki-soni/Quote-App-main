@@ -33,7 +33,7 @@
 
 ## 🌟 Screenshots
 
-![Password Generator Screenshot]()
+![Password Generator Screenshot](/Quote_Screenshot.png)
 
 ## 🔗 Live Demo
 
